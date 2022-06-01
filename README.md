@@ -5,10 +5,12 @@ Book Engine is a fully functioning Google Books API search engine built with a R
 
 # Installation
 1. Git clone
-2. Run `npm i`
-3. `Npm start`
+2. Navigate to "Develop" folder
+3. Run `npm i`, then
+4. `Npm start`
 
 # Usage
+<img width="1410" alt="Screenshot 2022-05-31 at 11 12 55 PM" src="https://user-images.githubusercontent.com/95050386/171320586-98d5e939-0801-4dc9-9bf3-d17026caaf7e.png">
 
 
 # Technologies Used
@@ -17,3 +19,4 @@ Book Engine is a fully functioning Google Books API search engine built with a R
 3. Node.js
 4. Express.js
 5. Heroku
+
